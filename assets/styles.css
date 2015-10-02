@@ -1,3 +1,4 @@
-h1 {text-align: center;}
-p {text-align: justify;}
+p {text-align: justify; color: #555;}
+h1 {text-align: center; color: #07D7FD; margin-top: 0px;}
 .container {max-width: 760px; margin: 0 auto; padding: 30px}
+#react {height: 150px; width: 150px; display: block; margin: 0 auto;}
