@@ -1,4 +1,10 @@
-p {text-align: justify; color: #555;}
-h1 {text-align: center; color: #07D7FD; margin-top: 0px;}
-.container {max-width: 760px; margin: 0 auto; padding: 30px}
+p {text-align: justify;}
+a, .blue  {color: #07D7FD;}
+.center {text-align: center;}
+.normal {font-weight: normal;}
+.details h2 {margin-top: 40px;}
+body {color: #555; cursor: default;}
+.blurb, .details{margin-bottom: 60px;}
+.blurb h1 {color: #07D7FD; margin-top: 0px;}
+.container {max-width: 760px; margin: 0 auto; padding: 30px 30px 100px;}
 #react {height: 150px; width: 150px; display: block; margin: 0 auto;}
